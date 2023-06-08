@@ -1,5 +1,7 @@
 # Vet-Clinic
+
 ## Getting Started
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -32,14 +34,11 @@ The vet-clinic database is application that allows the users to access database 
 
 ## 🛠 Built With <a name="built-with"></a>
 
-  - SQL POSTGRESQL
-  
+- SQL POSTGRESQL
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-
 
 - **Table**
 - **Data for each animal**
@@ -78,43 +77,30 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+clone this repo with this link https://github.com/TayyabKM/Vet_clinic.git
+
+then use the following command:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+ git clone https://github.com/TayyabKM/Vet_clinic.git
 ```
---->
 
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+### Install this project with:
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
-  rails server
+  cd Vet_clinic
+  code .
 ```
---->
 
 ### Run tests
 
 To run tests, run the following command:
+
+There are currently no tests to run
 
 <!--
 Example command:
@@ -126,7 +112,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
+The project is not live for the moment
 
 <!--
 Example:
