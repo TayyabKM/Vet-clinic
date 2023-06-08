@@ -6,3 +6,15 @@ CREATE TABLE animals (
     neutered BOOLEAN,
     weight_kg DECIMAL(5, 2)
 );
+
+--modify table
+
+CREATE TABLE IF NOT EXISTS animals (
+  id INT NOT NULL IDENTITY(1, 1) PRIMARY KEY,
+  name VARCHAR(255),
+  date_of_birth DATE,
+  escape_attempts INTEGER,
+  neutered BOOLEAN,
+  weight_kg DECIMAL(10, 2),
+  species VARCHAR(255)
+);
